@@ -11,7 +11,11 @@ A curated list of firebase data modeling strategies.
 
 # Getting Started
 
-Getting Started here
+* [Firebase Data Modeling](https://howtofirebase.com/firebase-data-modeling-939585ade7f4#.4sk8jfty6) - Well documented with examples.
+* [Firebase Data Modeling](https://howtofirebase.com/firebase-data-modeling-939585ade7f4#.4sk8jfty6) - Well documented with examples.
+* [Firebase Data Modeling](https://howtofirebase.com/firebase-data-modeling-939585ade7f4#.4sk8jfty6) - Well documented with examples.
+* [Firebase Data Modeling](https://howtofirebase.com/firebase-data-modeling-939585ade7f4#.4sk8jfty6) - Well documented with examples.
+* [Firebase Data Modeling](https://howtofirebase.com/firebase-data-modeling-939585ade7f4#.4sk8jfty6) - Well documented with examples.
 
 # Tutorials
 
