@@ -7,9 +7,11 @@ A curated list of firebase data modeling strategies.
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
 
+---
+
 # Getting Started
 
----
+Getting Started here
 
 # Tutorials
 
