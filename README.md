@@ -5,5 +5,9 @@ A curated list of firebase data modeling strategies.
 ## Content
 - [About](#about)
 - [How to Use](#how-to-use)
-- [Getting Started](#getting-started)
-- [Library and Frameworks](#libraries-and-frameworks)
+- [Tutorials](#tutorials)
+
+# Tutorials
+
+## Data Modeling
+* [Chris Esplin](https://howtofirebase.com/firebase-data-modeling-939585ade7f4#.4sk8jfty6) - Well documented with examples.
