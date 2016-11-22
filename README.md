@@ -1,4 +1,4 @@
 # Awesome-Firebase-Modeling
 
-# About
+## About
 A curated list of firebase data modeling strategies.
